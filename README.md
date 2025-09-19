@@ -16,6 +16,8 @@
 ## Example Run
 
 ```
+$ python main.py
+
 Enter coin pair (like USDC_USDT): USDC_USDT
 
 Price: 99,550 IRT 🔺
